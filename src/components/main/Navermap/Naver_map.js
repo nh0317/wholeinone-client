@@ -13,7 +13,7 @@ function Naver_maps({open}) {
     return (
       <S.Container>
         <RenderAfterNavermapsLoaded
-          ncpClientId={'m3c5d30dn7'}
+          ncpClientId={'dfiszxzp6x'}
           error={<p>Maps Load Error</p>}
           loading={<p>Maps Loading...</p>}
           >
